@@ -1,0 +1,39 @@
+
+ #fifty{
+     border: #2051be 5px dotted;
+     border-radius: 20px;
+
+ }
+ .one{
+
+     font-size: 45px;
+     font-family: cursive;
+     font-weight: lighter;
+ }
+ #skeet{
+     background-color: darkgrey;
+     border: darkgrey 6px solid;
+     border-radius: 23px;
+ }
+ .EIGHT{
+
+     text-align: center;
+     font-family:"Nimbus Sans Narrow";
+     font-size: 20px;
+     font-weight: lighter;
+
+ }
+ body{
+     background-color: darkred;
+     border: darkgrey 2px solid;
+     border-radius:21x ;
+
+
+ }
+ .Fire:hover{ color: darkslategrey;
+border: #9570d7 2px solid;
+ }
+ .FIRE{
+border: black 2px solid;
+     border-radius: 23px;
+ }

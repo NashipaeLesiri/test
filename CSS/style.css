@@ -1,0 +1,75 @@
+body{
+    background-color: dimgray;
+
+
+   text-align: center;
+/*padding: 68px;*/
+
+    margin: 40px;
+
+
+}
+
+
+p{
+color: darkred;
+
+}
+
+.one{
+    color: deepskyblue;
+font-size: 70px;
+font-family: cursive;
+    font-weight: bolder;
+
+
+}
+
+.two{
+border: wheat 3px solid;
+border-radius: 10px 4px 20px 0 ;
+padding: 31px;
+
+
+}
+
+.four{
+    
+    border-radius: 65px;
+    border: blanchedalmond 3px dotted;
+    width: 30%;
+}
+
+a{
+
+
+
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+
+    color: cornflowerblue;
+    font-size: 34px;
+border-bottom: wheat 2px dotted;
+}
+
+#one{
+    color:  #4df2df ;
+border: darkslategrey 5px dotted;
+    border-radius:21px ;
+}
+
+#one:hover{ color: #2051be;
+
+
+
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+
+.were{
+border: black 2px solid;
+border-radius: 10px;
+float: left;
+    width: 50%;
+    -webkit-filter: grayscale(100%);
+}
+.go {
+    border: black 1px solid;
+    border-radius: 10px;
+    float: right;
+    width: 49%;
+    text-align: left;
+}
+body{
+    background-color:#0b0c0c ;
+}
+.se{
+    color: white;
+    font-family: "monospace";
+    font-style: normal;
+}
+.say{
+border: #0b0c0c 1px solid;
+border-radius: 23px;
+    background-color:  #232424 ;
+color: whitesmoke;
+    font-size: 18px;
+    width: 45%;
+    height: 45px;
+}
+.qwe{
+    color: whitesmoke;
+    font-family: monospace;
+    font-style: oblique;
+    font-size: 30px;
+text-align: left;
+}
+.cool{
+border: white 1px solid;
+border-radius: 20px;
+    width: 39%;
+    height:50px
+
+}
+.what{
+    border: #0b0c0c 1px solid;
+border-radius: 23px;
+    background-color:  #232424 ;
+color: whitesmoke;
+    font-size: 18px;
+}
+
