@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f7aa857-1a61-4ae6-b59f-1baa8bb8b058" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/recap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table1.html" beforeDir="false" afterPath="$PROJECT_DIR$/table1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trial.html" beforeDir="false" afterPath="$PROJECT_DIR$/trial.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/forms.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2akv2Gm195t17bceZsUgoXa7h8R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Music/TIFFANY/Web development/Jioni&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="basic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f7aa857-1a61-4ae6-b59f-1baa8bb8b058" name="Changes" comment="" />
+      <created>1704875183178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704875183178</updated>
+      <workItem from="1704875184187" duration="6566000" />
+      <workItem from="1704885529032" duration="1168000" />
+      <workItem from="1704960097369" duration="9204000" />
+      <workItem from="1704971526011" duration="15000" />
+      <workItem from="1705045985915" duration="8792000" />
+      <workItem from="1705057756243" duration="32000" />
+      <workItem from="1705305783380" duration="8968000" />
+      <workItem from="1705316936668" duration="45000" />
+      <workItem from="1705317002754" duration="19000" />
+      <workItem from="1705317048357" duration="19000" />
+      <workItem from="1705317089122" duration="10000" />
+      <workItem from="1705391769572" duration="10537000" />
+      <workItem from="1705468674426" duration="164000" />
+      <workItem from="1705478091690" duration="9288000" />
+      <workItem from="1705489448823" duration="5000" />
+      <workItem from="1705489473629" duration="133000" />
+      <workItem from="1705489633091" duration="37000" />
+      <workItem from="1705489689458" duration="20000" />
+      <workItem from="1705565117964" duration="9878000" />
+      <workItem from="1705576025907" duration="97000" />
+      <workItem from="1705650581130" duration="25000" />
+      <workItem from="1705650843465" duration="63000" />
+      <workItem from="1705650957077" duration="142000" />
+      <workItem from="1705651118644" duration="1599000" />
+      <workItem from="1705652762131" duration="1129000" />
+      <workItem from="1705653908502" duration="3318000" />
+      <workItem from="1705657693045" duration="640000" />
+      <workItem from="1705661613459" duration="55000" />
+      <workItem from="1705661689837" duration="28000" />
+      <workItem from="1705910650137" duration="433000" />
+      <workItem from="1705920677515" duration="240000" />
+      <workItem from="1705998295504" duration="417000" />
+      <workItem from="1706014995062" duration="19000" />
+      <workItem from="1706084714197" duration="2265000" />
+      <workItem from="1706087235366" duration="265000" />
+      <workItem from="1706087583492" duration="15000" />
+      <workItem from="1706088029051" duration="12000" />
+      <workItem from="1706092029722" duration="234000" />
+      <workItem from="1706096359443" duration="36000" />
+      <workItem from="1706170903938" duration="58000" />
+      <workItem from="1706171810682" duration="52000" />
+      <workItem from="1706171944349" duration="28000" />
+      <workItem from="1706171981978" duration="15000" />
+      <workItem from="1706172437068" duration="9000" />
+      <workItem from="1706172464163" duration="28000" />
+      <workItem from="1706172549456" duration="52000" />
+      <workItem from="1706172715890" duration="39000" />
+      <workItem from="1706257105007" duration="2959000" />
+      <workItem from="1706260228749" duration="172000" />
+      <workItem from="1706260453653" duration="3246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
